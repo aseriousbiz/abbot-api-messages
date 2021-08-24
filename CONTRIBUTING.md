@@ -10,11 +10,11 @@ But first things first...
 
 * Make sure you have a [GitHub account](https://github.com/signup/free)
 * Create an issue describing your requested change, assuming one does not already exist.
-    * Clearly describe the issue including steps to reproduce when it is a bug.
-    * Make sure you fill in the earliest version that you know has the issue.
+  * Clearly describe the issue including steps to reproduce when it is a bug.
+  * Make sure you fill in the earliest version that you know has the issue.
 * Fork the repository on GitHub by clicking on the "Clone in Windows" button or run the following command in a git shell.
 ```
-git clone https://github.com/aseriousbiz/abbot-cli
+git clone https://github.com/aseriousbiz/abbot-api-messages
 ```
 * To build the project you will need to have the [.net 5 sdk](https://dotnet.microsoft.com/download/dotnet/5.0) installed.
 
